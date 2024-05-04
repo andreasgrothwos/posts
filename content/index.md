@@ -10,6 +10,6 @@ Se [dokumentationen til Quartz](https://quartz.jzhao.xyz) for at komme videre.
 
 [[Economics]]
 [[Data]]
-
+[[Life]]
 ### Her laver jeg mine sider:
 [[ny side her]]
